@@ -25,7 +25,7 @@ Languages
 Experience
 ----------
 
-**Senior Python Developer for `Thirstie <https://thirstie.com>`_ and `Clos19 <https://www.clos19.com>`_ **
+**Senior Python Developer for `Thirstie <https://thirstie.com>`_ and `Clos19 <https://www.clos19.com>`_.**
 
 MicroServices using Async Python 3.7 with Static Type hints, Postgres, Peewee, Celery, Docker Linux (GitHub),
 with a distributed team of 2 developers from Argentina, we designed and started the code from zero. 2019.
@@ -34,13 +34,13 @@ with a distributed team of 2 developers from Argentina, we designed and started 
 
 CTO working remotely AGTech Python projects for Argentinean Startup OptiAgro. (Canceled by CEO) 2018.
 
-**Senior Open Source Python Developer for `Twilio <https://www.twilio.com>`_   **
+**Senior Open Source Python Developer for `Twilio <https://www.twilio.com>`_.**
 
 I maintained all Twilio Python APIs and documentations, some NodeJS/Ruby too, on GitHub,
 with a distributed team of 5 developers, peer reviews of all repos, documentation, R&D, tutorials, bug fix,
 features, technical translation, juniors mentoring, and more. (Temporal Staff Augmentation) 2016~2017.
 
-**Senior Python Developer and Technical Leader for `National Geographic <https://www.nationalgeographic.com>`_**
+**Senior Python Developer and Technical Leader for `National Geographic <https://www.nationalgeographic.com>`_.**
 
 I maintained all NatGeo websites for years, all Python/Django based, with a team of 5~15 people,
 projects like YourShot, MemberCenter, NatGeo, WPF, IconGS, Mortar, other internal-only software, etc.
@@ -49,11 +49,11 @@ On parallel working with clients like Electronic Arts, Lionel, SEARS/Kmart, Howa
 International Teams from USA, Canada, Colombia, Germany, India, Arab E., Uruguay, Argentina, etc.
 Python FullStack, experience on Django, HTML5, CSS3, JS, CoffeeScript. (until NatGeo get bought) 2009~2016.
 
-**Freelance Senior Developer/Cooperative Partner for `Open Contracting Data Standard <https://standard.open-contracting.org>`_**
+**Freelance Senior Developer/Cooperative Partner for `Open Contracting Data Standard <https://standard.open-contracting.org>`_.**
 
 Python Developer and docs translator for Open Contracting development. (Canceled) ~3 Months, 2017.
 
-**Freelance independent Python Developer for `Empeopled Social Network <https://www.empeopled.com>`_**
+**Freelance independent Python Developer for `Empeopled Social Network <https://www.empeopled.com>`_.**
 
 Python2 Linux Web development, Home-working on Backend work. (Canceled) 2015~2016.
 
