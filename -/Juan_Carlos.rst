@@ -108,7 +108,7 @@ I like to use Design By Contract, and made `my own library for DbC. <https://git
 Education
 ---------
 
-- **University:** U.T.N. (`Argentina, Buenos Aires <https://www.openstreetmap.org/relation/1632167>`_), Systems Engineer. Python Programming; Linux LPI; Bilingual.
+- **University:** `U.T.N. <https://utn.edu.ar>`_ (`Argentina, Buenos Aires <https://www.openstreetmap.org/relation/1632167>`_), Systems Engineer. Python Programming; Linux LPI; Bilingual.
 
 
 *Thank you for your time, do not hesitate to contact me for any interviews or questions, let's talk.*
