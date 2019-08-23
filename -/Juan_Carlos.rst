@@ -11,6 +11,7 @@ Juan Carlos Ojeda
 - **When can I start?:**   Right now, immediately.
 - **Timezone:**            `UTC -3:00. <https://www.openstreetmap.org/relation/1632167>`_
 - **Availability:**        Remote, Full-Time/Part-Time/Flex-Time/Async-Work.
+- **Top 3 Technologies:**  `Python <https://python.org>`_, `Nim <https://nim-lang.org>`_, `JavaScript <https://nodejs.org>`_.
 
 *Working on software industry for 10+ years, always looking to learn more !.*
 
