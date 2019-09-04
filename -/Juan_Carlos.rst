@@ -29,9 +29,10 @@ Skills
 `Python <https://python.org>`_, `Nim <https://nim-lang.org>`_,
 `JavaScript / NodeJS <https://nodejs.org>`_, `C <http://www.open-std.org/jtc1/sc22/wg14/>`_,
 `Cython <https://cython.org>`_, `NimScript <https://nim-lang.github.io/Nim/nims.html>`_,
-`Postgres SQL Databases <https://postgresql.org>`_, `SQLite Databases <https://sqlite.org>`_, SQL Raw Queries,
+`Postgres SQL Databases <https://postgresql.org>`_, `SQLite Databases <https://sqlite.org>`_,
 `Docker <https://nodejs.org>`_, `Vagrant <https://https://www.vagrantup.com>`_,
-`Arch Linux <https://python.org>`_, `Ubuntu Linux <https://ubuntu.com>`_
+`Arch Linux <https://python.org>`_, `Ubuntu Linux <https://ubuntu.com>`_,
+SQL Raw Queries, Backend, Frontend, DevOps.
 
 
 Experience
