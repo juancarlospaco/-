@@ -36,7 +36,7 @@ Skills
 SQL Raw Queries, ANSI SQL, Backend, Frontend, DevOps, Junior Mentoring, Unittests,
 Technical Translation, Technical Documentation Writing, Design by Contract Testing,
 Web Scrapping, Open Data, Tensors, Behaviour Driven Development, Gherkin syntax,
-Microservices, Async programming, HTTP REST JSON API, Performance Tunning,
+Microservices, Async programming, HTTP REST JSON API, Performance Tunning, Scrapy,
 Cross-Compilation, binary modules for interpreted programming languages, Automation,
 HTML, CSS, SCSS, JSON, XML, SVG, CSV, ORM, INI, Git, GCC, LLVM, GDB, PDB.
 
