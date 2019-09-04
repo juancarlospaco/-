@@ -40,7 +40,8 @@ Microservices, Async programming, HTTP REST JSON API, Performance Tunning, Scrap
 Cross-Compilation, binary modules for interpreted programming languages, Automation,
 Open Source software, GitHub, GitLab, Tech Stack renovation, Refactoring,
 Team Leader, Technical Blogging, Linux Security, Binary Hardening, Benchmarking,
-HTML, SEO, CSS, SCSS, JSON, XML, SVG, CSV, ORM, INI, RST, MD, Git, GCC, LLVM, GDB, PDB.
+Creating products from scratch, Resource usage tunning for servers, Caching,
+HTML, SEO, CSS, SCSS, JSON, XML, SVG, CSV, ORM, INI, RST, MD, Git, GCC, LLVM, ARM, GDB, PDB.
 
 
 Experience
