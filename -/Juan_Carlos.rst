@@ -29,14 +29,16 @@ Skills
 `Python <https://python.org>`_, `Nim <https://nim-lang.org>`_,
 `JavaScript / NodeJS <https://nodejs.org>`_, `C <http://www.open-std.org/jtc1/sc22/wg14/>`_,
 `Cython <https://cython.org>`_, `NimScript <https://nim-lang.github.io/Nim/nims.html>`_,
-`Ruby <https://www.ruby-lang.org>`_, `Go <https://golang.org>`_, Assembly x86_64, GCC,
+`Ruby <https://www.ruby-lang.org>`_, `Go <https://golang.org>`_, Assembly x86_64,
 `Postgres SQL Databases <https://postgresql.org>`_, `SQLite Databases <https://sqlite.org>`_,
 `Docker <https://nodejs.org>`_, `Vagrant <https://https://www.vagrantup.com>`_,
 `Arch Linux <https://python.org>`_, `Ubuntu Linux <https://ubuntu.com>`_, Backups,
 SQL Raw Queries, ANSI SQL, Backend, Frontend, DevOps, Junior Mentoring, Unittests,
 Technical Translation, Technical Documentation Writing, Design by Contract Testing,
 Web Scrapping, Open Data, Tensors, Behaviour Driven Development, Gherkin syntax,
-Microservices, Async programming, HTTP REST JSON API, Performance Tunning, ORM.
+Microservices, Async programming, HTTP REST JSON API, Performance Tunning, ORM,
+Cross-Compilation, binary modules for interpreted programming languages,
+HTML, CSS, SCSS, JSON, XML, SVG, CSV, INI, Git, GCC, LLVM.
 
 
 Experience
