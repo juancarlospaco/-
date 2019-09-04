@@ -38,7 +38,7 @@ Technical Translation, Technical Documentation Writing, Design by Contract Testi
 Web Scrapping, Open Data, Tensors, Behaviour Driven Development, Gherkin syntax,
 Microservices, Async programming, HTTP REST JSON API, Performance Tunning, Scrapy,
 Cross-Compilation, binary modules for interpreted programming languages, Automation,
-Open Source software, GitHub, GitLab, Tech Stack renovation, Refactoring,
+Open Source software, GitHub, GitLab, Tech Stack renovation, Refactoring, LaTex,
 Team Leader, Technical Blogging, Linux Security, Binary Hardening, Benchmarking,
 Creating products from scratch, Resource usage tunning for servers, Caching,
 HTML, SEO, CSS, SCSS, JSON, XML, SVG, CSV, ORM, INI, RST, MD, Git, GCC, LLVM, ARM, GDB, PDB.
