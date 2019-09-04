@@ -37,7 +37,7 @@ SQL Raw Queries, ANSI SQL, Backend, Frontend, DevOps, Junior Mentoring, Unittest
 Technical Translation, Technical Documentation Writing, Design by Contract Testing,
 Web Scrapping, Open Data, Tensors, Behaviour Driven Development, Gherkin syntax,
 Microservices, Async programming, HTTP REST JSON API, Performance Tunning, ORM,
-Cross-Compilation, binary modules for interpreted programming languages,
+Cross-Compilation, binary modules for interpreted programming languages, Automation,
 HTML, CSS, SCSS, JSON, XML, SVG, CSV, INI, Git, GCC, LLVM.
 
 
