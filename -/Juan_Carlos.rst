@@ -23,6 +23,17 @@ Languages
 - **Spanish:** Native.
 
 
+Skills
+------
+
+`Python <https://python.org>`_, `Nim <https://nim-lang.org>`_,
+`JavaScript / NodeJS <https://nodejs.org>`_, `C <http://www.open-std.org/jtc1/sc22/wg14/>`_,
+`Cython <https://cython.org>`_, SQL Raw Queries, SQL Debug Queries,
+`Postgres SQL Databases <https://postgresql.org>`_, `SQLite Databases <https://sqlite.org>`_,
+`Docker <https://nodejs.org>`_, `Vagrant <https://https://www.vagrantup.com>`_,
+`Arch Linux <https://python.org>`_, `Ubuntu Linux <https://ubuntu.com>`_
+
+
 Experience
 ==========
 
@@ -30,12 +41,12 @@ Senior Python Developer for `Thirstie <https://thirstie.com>`_ and `Clos19 <http
 -----------------------------------------------------------------------------------------------------
 
 MicroServices using Async Python 3.7 with Static Type hints, Postgres, Peewee, Celery, Docker Linux (GitHub),
-with a distributed team of 2 developers from Argentina, we designed and started the code from zero. 2019.
+with a distributed team of 2 developers from Argentina, we designed and started the code from zero. ~2019.
 
 CTO for OptiAgro
 ----------------
 
-CTO working remotely AGTech Python projects for Argentinean Startup OptiAgro. (Canceled by CEO) 2018.
+CTO working remotely AGTech Python projects for Argentinean Startup OptiAgro. (Canceled by CEO) ~2018.
 
 Senior Open Source Python Developer for `Twilio <https://www.twilio.com>`_
 --------------------------------------------------------------------------
@@ -57,7 +68,7 @@ Python FullStack, experience on Django, HTML5, CSS3, JS, CoffeeScript. (until Na
 Freelance Senior Developer/Cooperative Partner for `Open Contracting Data Standard <https://standard.open-contracting.org>`_
 ----------------------------------------------------------------------------------------------------------------------------
 
-Python Developer and docs translator for Open Contracting development. (Canceled) ~3 Months, 2017.
+Python Developer and docs translator for Open Contracting development (Canceled). ~2017.
 
 Freelance independent Python Developer for `Empeopled Social Network <https://www.empeopled.com>`_
 --------------------------------------------------------------------------------------------------
