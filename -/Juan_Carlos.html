@@ -47,28 +47,21 @@ function main() {
 
   toggleSwitch.addEventListener('change', switchTheme, false);
 
+  const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
+  if (currentTheme) {
+    document.documentElement.setAttribute('data-theme', currentTheme);
 
-  if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-    document.documentElement.setAttribute('data-theme', "dark");
-    toggleSwitch.checked = true;
-  } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) {
-    document.documentElement.setAttribute('data-theme', "light");
-    toggleSwitch.checked = false;
-  } else {
-    const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
-    if (currentTheme) {
-      document.documentElement.setAttribute('data-theme', currentTheme);
-
-      if (currentTheme === 'dark') {
-        toggleSwitch.checked = true;
-      }
+    if (currentTheme === 'dark') {
+      toggleSwitch.checked = true;
     }
   }
 }
+
+window.addEventListener('DOMContentLoaded', main);
 </script>
 
 </head>
-<body onload="main()">
+<body>
 <div class="document" id="documentId">
   <div class="container">
     <h1 class="title">Juan_Carlos</h1>
@@ -76,54 +69,80 @@ function main() {
 <h1 id="juan-carlos-ojeda">Juan Carlos Ojeda</h1><ul class="simple"><li><strong>Mail:</strong>                <a class="reference external" href="mailto:juancarlospaco@gmail.com">JuanCarlospaco@Gmail.com</a></li>
 <li><strong>GitHub:</strong>              <a class="reference external" href="https://github.com/juancarlospaco">https://github.com/juancarlospaco</a></li>
 <li><strong>Linkedin:</strong>            <a class="reference external" href="https://www.linkedin.com/in/juan-carlos-7b273918">https://www.linkedin.com/in/juan-carlos-7b273918</a></li>
-<li><strong>Mobile:</strong>              <a class="reference external" href="https://telegram.me/juancarlospaco">https://telegram.me/juancarlospaco</a></li>
 <li><strong>Blog:</strong>                <a class="reference external" href="https://dev.to/juancarlospaco">https://dev.to/juancarlospaco</a></li>
-<li><strong>VideoCall:</strong>           <a class="reference external" href="https://meet.jit.si/juan_carlos">https://meet.jit.si/juan_carlos</a></li>
+<li><strong>Mobile:</strong>              <a class="reference external" href="https://telegram.me/juancarlospaco">https://telegram.me/juancarlospaco</a></li>
 <li><strong>Years of Experience:</strong> 10+ Years.</li>
 <li><strong>When can I start?:</strong>   Immediately.</li>
+<li><strong>Spoken Languages:</strong>    English (Fluent), Spanish (Native).</li>
 <li><strong>Timezone:</strong>            <a class="reference external" href="https://www.openstreetmap.org/relation/1632167">UTC -3:00.</a></li>
-<li><strong>Availability:</strong>        Remote, Full-Time/Part-Time/Flex-Time/Async-Work.</li>
+<li><strong>Availability:</strong>        Part-Time/Full-Time/Flex-Time/Async-Work.</li>
+<li><strong>Location:</strong>            Remote only.</li>
 </ul>
 <p><em>Working on software industry for 10+ years, always looking to learn more !.</em></p>
 
+<h1 id="top-5-core-skills">Top 5 Core Skills</h1><ul class="simple"><li><a class="reference external" href="https://python.org">Python 3.10+</a> / <a class="reference external" href="https://cython.org">Cython</a></li>
+<li><a class="reference external" href="https://nim-lang.org">Nim</a> (Backend, Frontend, Scripting).</li>
+<li><a class="reference external" href="https://postgresql.org">Postgres SQL</a> / <a class="reference external" href="https://sqlite.org">SQLite</a> (Raw SQL).</li>
+<li>JavaScript / <a class="reference external" href="https://nodejs.org">NodeJS</a></li>
+<li>Linux (Arch, Alpine, Debian, Ubuntu).</li>
+</ul>
+
+<h1 id="skills">Skills</h1><ul class="simple"><li>High performance binary modules for interpreted programming languages.</li>
+<li>Porting interpreted/JIT/VM languages to native crossplatform binaries.</li>
+<li>Software performance tunning. Resource usage tunning for servers.</li>
+<li>Technical documentation writing, translation and blogging.</li>
+<li>WebAssembly, porting server-side software to the browser.</li>
+<li>Refactoring run-time software logic to compile-time.</li>
+<li><a class="reference external" href="http://www.open-std.org/jtc1/sc22/wg14/">C</a> / Assembly x86_64 (FFI mainly).</li>
+<li><a class="reference external" href="https://www.ruby-lang.org">Ruby</a>, Pascal.</li>
+<li>Bash, NimScript (Scripting, deployment)</li>
+<li><a class="reference external" href="https://nodejs.org">Docker</a> / <a class="reference external" href="https://https://www.vagrantup.com">Vagrant</a></li>
+<li>Bulma, Spectre, Bootstrap (CSS frameworks).</li>
+<li>Latex, RestrucTuredText, Markdown (markups).</li>
+<li>Git, GitHub, GitHub Actions, GitLab, CI, CD.</li>
+<li>Creating products from scratch.</li>
+<li>Design by Contract testing.</li>
+<li>Tech stack renovation.</li>
+<li>Open Data compliance.</li>
+<li>HTTP REST JSON API.</li>
+<li>Junior mentoring.</li>
+<li>Binary Hardening.</li>
+<li>Gherkin syntax.</li>
+<li>Web scrapping.</li>
+</ul>
+
+<h1 id="experience">Experience</h1>
+<h2 id="senior-python-developer-for-thirstiehttpscolonslashslashthirstiedotcom-and-clos19httpscolonslashslashwwwdotclos19dotcom">Senior Python Developer for <a class="reference external" href="https://thirstie.com">Thirstie</a> and <a class="reference external" href="https://www.clos19.com">Clos19</a></h2><p>MicroServices using Async Python 3.8 with Static Type hints, Postgres, Peewee, Celery, Docker Linux (GitHub), with a distributed team of 2 developers from Argentina, we designed and started the code from zero. ~2020.</p>
+
+<h2 id="senior-open-source-python-developer-for-twiliohttpscolonslashslashwwwdottwiliodotcom">Senior Open Source Python Developer for <a class="reference external" href="https://www.twilio.com">Twilio</a></h2><p>I maintained all Twilio Python APIs and documentations, some NodeJS/Ruby too, on GitHub, with a distributed team of 5 developers, peer reviews of all repos, documentation, R&amp;D, tutorials, bug fix, features, technical translation, juniors mentoring, and more. (Temporal Staff Augmentation) ~2019.</p>
+
+<h2 id="senior-python-developer-and-technical-leader-for-national-geographichttpscolonslashslashwwwdotnationalgeographicdotcom">Senior Python Developer and Technical Leader for <a class="reference external" href="https://www.nationalgeographic.com">National Geographic</a></h2><p>I maintained all NatGeo websites for years, all Python/Django based, with a team of 5~15 people, projects like YourShot, MemberCenter, NatGeo, WPF, IconGS, Mortar, other internal-only software, etc.</p>
+<p>On parallel working with clients like Electronic Arts, Lionel, SEARS/Kmart, Howarth, AON, BSD, etc. International Teams from USA, Canada, Colombia, Germany, India, Arab E., Uruguay, Argentina, etc. Python FullStack, experience on Django, HTML5, CSS3, JS, CoffeeScript. (until NatGeo get bought) ~2018.</p>
+
+<h2 id="cto-for-optiagro">CTO for OptiAgro</h2><p>CTO working remotely AGTech Python projects for Argentinean Startup OptiAgro. (Canceled by CEO) ~2017.</p>
+
+<h2 id="freelance-senior-developerslashcooperative-partner-for-open-contracting-data-standardhttpscolonslashslashstandarddotopenminuscontractingdotorg">Freelance Senior Developer/Cooperative Partner for <a class="reference external" href="https://standard.open-contracting.org">Open Contracting Data Standard</a></h2><p>Python Developer and docs translator for Open Contracting development (Migrated dev team to Brasil). ~2016.</p>
+
+<h2 id="freelance-independent-python-developer-for-empeopled-social-networkhttpscolonslashslashwwwdotempeopleddotcom">Freelance independent Python Developer for <a class="reference external" href="https://www.empeopled.com">Empeopled Social Network</a></h2><p>Python2 Linux Web development, Home-working on Backend work. (Canceled by CEO) ~2015.</p>
+
 <h1 id="about-me">About Me</h1><p>I code Open Source on <a class="reference external" href="https://github.com/juancarlospaco">GitHub.</a> I like to think <em>outside the box</em> (but I mean it), so eventually hit the limits of what <a class="reference external" href="https://python.org">CPython</a> can do, then used <a class="reference external" href="https://cython.org">Cython</a>, also choke on the boundaries, then integrated <a class="reference external" href="https://nim-lang.org">Nim</a> to my workflow, so far is the most productive, and allows me to implement my ideas into unique software, not seen anywhere else.</p>
-<ul class="simple"><li><a class="reference external" href="https://juancarlospaco.github.io/webgui">Electron alternative, web technologies based crossplatform GUI Framework, compiles to few Kilobytes file.</a></li>
-<li><a class="reference external" href="https://nimwc.org/login">Fullstack web Framework from scratch with unique features.</a></li>
+<ul class="simple"><li><a class="reference external" href="https://nimwc.org/login">Fullstack web Framework from scratch with unique features.</a></li>
+<li><a class="reference external" href="https://juancarlospaco.github.io/webgui">Electron alternative, web technologies based crossplatform GUI Framework, compiles to few Kilobytes file.</a></li>
 <li><a class="reference external" href="https://github.com/juancarlospaco/nim-gatabase#gatabase">Compile-time Type-safe Database ORM for PostgreSQL and SQLite, including prepared statements.</a></li>
 <li><a class="reference external" href="https://github.com/juancarlospaco/nim-nimterlingua#nimterlingua">Compile-time Translation framework that translates unmodified source code with 0 cost at runtime.</a>.</li>
-<li><a class="reference external" href="https://github.com/juancarlospaco/nim-pypi">Python PIP alternative, uploads to PYPI (replaces Twine), single file, works on Docker &amp; Alpine.</a> ,</li>
 <li><a class="reference external" href="https://github.com/juancarlospaco/faster-than-requests#faster-than-requests">Requests alternative with built-in multi-thread web scrapers and downloaders, 0 dependency.</a> ,</li>
 <li><a class="reference external" href="https://github.com/juancarlospaco/faster-than-csv#faster-than-csv">CSV module for Data Science, HTML Table view, faster than Pandas (at the time of writing it).</a>,</li>
 <li><a class="reference external" href="https://github.com/juancarlospaco/faster-than-walk#faster-than-walk">Recursive os.walk() alternative with Glob patterns, faster than stdlib (at the time of writing it).</a>.</li>
 <li><a class="reference external" href="https://www.openstreetmap.org/user/Juan_Carlos">Async Libraries for all APIs of OpenStreetMap.</a></li>
 <li><a class="reference external" href="http://argentina-ni.ml">Online Web Playground with Python syntax, machine code, Abstract Syntax Tree, UML SVG, QR Code, etc.</a></li>
+<li><a class="reference external" href="https://github.com/juancarlospaco/nim-pypi">Python PIP alternative, uploads to PYPI (replaces Twine), single file, works on Docker &amp; Alpine.</a> ,</li>
 <li>As a social activity, <a class="reference external" href="https://t.me/NimArgentina">I started the Nim Argentina community (Spanish, +100 people).</a></li>
 <li><a class="reference external" href="https://pypi.org/user/juancarlospaco">I have some popular Python packages on pypi</a></li>
 </ul>
 <p>I contributed to popular open source projects like <a class="reference external" href="https://github.com/juancarlospaco/peewee-extra-fields">Peewee</a>, <a class="reference external" href="https://nuitka.net">Nuitka</a>, Ninja-IDE.</p>
 <p>Arch Linux user, previously Debian/Ubuntu. I can effectively communicate technical information to non-technical people, I like to make things simpler. I have been coding Python more than 10 years, on small and big companies of the US. As a self-taught person, for me programming is always learning new things, is an adventure of a lifetime.</p>
 
-<h2 id="languages">Languages</h2><ul class="simple"><li><strong>English:</strong> Fluent, technical.</li>
-<li><strong>Spanish:</strong> Native.</li>
-</ul>
-
-<h1 id="experience">Experience</h1>
-<h2 id="senior-python-developer-for-thirstiehttpscolonslashslashthirstiedotcom-and-clos19httpscolonslashslashwwwdotclos19dotcom">Senior Python Developer for <a class="reference external" href="https://thirstie.com">Thirstie</a> and <a class="reference external" href="https://www.clos19.com">Clos19</a></h2><p>MicroServices using Async Python 3.8 with Static Type hints, Postgres, Peewee, Celery, Docker Linux (GitHub), with a distributed team of 2 developers from Argentina, we designed and started the code from zero. 2019.</p>
-
-<h2 id="cto-for-optiagro">CTO for OptiAgro</h2><p>CTO working remotely AGTech Python projects for Argentinean Startup OptiAgro. (Canceled by CEO) 2018.</p>
-
-<h2 id="senior-open-source-python-developer-for-twiliohttpscolonslashslashwwwdottwiliodotcom">Senior Open Source Python Developer for <a class="reference external" href="https://www.twilio.com">Twilio</a></h2><p>I maintained all Twilio Python APIs and documentations, some NodeJS/Ruby too, on GitHub, with a distributed team of 5 developers, peer reviews of all repos, documentation, R&amp;D, tutorials, bug fix, features, technical translation, juniors mentoring, and more. (Temporal Staff Augmentation) 2016~2017.</p>
-
-<h2 id="senior-python-developer-and-technical-leader-for-national-geographichttpscolonslashslashwwwdotnationalgeographicdotcom">Senior Python Developer and Technical Leader for <a class="reference external" href="https://www.nationalgeographic.com">National Geographic</a></h2><p>I maintained all NatGeo websites for years, all Python/Django based, with a team of 5~15 people, projects like YourShot, MemberCenter, NatGeo, WPF, IconGS, Mortar, other internal-only software, etc.</p>
-<p>On parallel working with clients like Electronic Arts, Lionel, SEARS/Kmart, Howarth, AON, BSD, etc. International Teams from USA, Canada, Colombia, Germany, India, Arab E., Uruguay, Argentina, etc. Python FullStack, experience on Django, HTML5, CSS3, JS, CoffeeScript. (until NatGeo get bought) 2009~2016.</p>
-
-<h2 id="freelance-senior-developerslashcooperative-partner-for-open-contracting-data-standardhttpscolonslashslashstandarddotopenminuscontractingdotorg">Freelance Senior Developer/Cooperative Partner for <a class="reference external" href="https://standard.open-contracting.org">Open Contracting Data Standard</a></h2><p>Python Developer and docs translator for Open Contracting development (Migrated dev team to Brasil). ~2017.</p>
-
-<h2 id="freelance-independent-python-developer-for-empeopled-social-networkhttpscolonslashslashwwwdotempeopleddotcom">Freelance independent Python Developer for <a class="reference external" href="https://www.empeopled.com">Empeopled Social Network</a></h2><p>Python2 Linux Web development, Home-working on Backend work. (Canceled by CEO) 2015~2016.</p>
-
-<h2 id="skills">Skills</h2><p><a class="reference external" href="https://python.org">Python</a>, <a class="reference external" href="https://nim-lang.org">Nim</a>, <a class="reference external" href="https://nodejs.org">JavaScript / NodeJS</a>, basic <a class="reference external" href="http://www.open-std.org/jtc1/sc22/wg14/">C</a>, <a class="reference external" href="https://cython.org">Cython</a>, <a class="reference external" href="https://nim-lang.github.io/Nim/nims.html">NimScript</a>, <a class="reference external" href="https://www.ruby-lang.org">Ruby</a>, <a class="reference external" href="https://golang.org">Go</a>, Bash, <a class="reference external" href="https://postgresql.org">Postgres SQL Databases</a>, <a class="reference external" href="https://sqlite.org">SQLite Databases</a>, <a class="reference external" href="https://nodejs.org">Docker</a>, <a class="reference external" href="https://https://www.vagrantup.com">Vagrant</a>, <a class="reference external" href="https://python.org">Arch Linux</a>, <a class="reference external" href="https://ubuntu.com">Ubuntu Linux</a>, Backups, SQL Raw Queries, ANSI SQL, Backend, Frontend, DevOps, Junior Mentoring, Unittests, Technical Translation, Technical Documentation Writing, Design by Contract Testing, Web Scrapping, Open Data, Tensors, Behaviour Driven Development, Gherkin syntax, Microservices, Async programming, HTTP REST JSON API, Performance Tunning, Scrapy, Cross-Compilation, binary modules for interpreted programming languages, Automation, Open Source software, GitHub, GitLab, Tech Stack renovation, Refactoring, LaTex, Team Leader, Technical Blogging, Linux Security, Binary Hardening, Benchmarking, Creating products from scratch, Resource usage tunning for servers, Caching, HTML, SEO, CSS, SCSS, JSON, XML, SVG, CSV, ORM, INI, RST, MD, Git, GCC, LLVM, ARM, GDB, PDB.</p>
-
-<h2 id="education">Education</h2><ul class="simple"><li><strong>University:</strong> <a class="reference external" href="https://utn.edu.ar">U.T.N.</a> (<a class="reference external" href="https://www.openstreetmap.org/relation/1632167">Argentina, Buenos Aires</a>), Systems Engineer. Python Programming; Linux LPI; Bilingual.</li>
+<h2 id="education">Education</h2><ul class="simple"><li>University: <a class="reference external" href="https://utn.edu.ar">U.T.N.</a> (<a class="reference external" href="https://www.openstreetmap.org/relation/1632167">Argentina, Buenos Aires</a>), Systems Engineer. Python Programming; Linux LPI; Bilingual.</li>
 </ul>
 <p><em>Thank you for your time, do not hesitate to contact me for any interviews or questions, let's talk.</em> </p>
 
@@ -133,7 +152,7 @@ function main() {
       <div class="twelve-columns footer">
         <span class="nim-sprite"></span>
         <br/>
-        <small style="color: var(--hint);">Made with Nim. Generated: 2020-05-01 02:40:05 UTC</small>
+        <small style="color: var(--hint);">Made with Nim. Generated: 2021-03-04 00:37:17 UTC</small>
       </div>
     </div>
   </div>
