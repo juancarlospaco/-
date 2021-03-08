@@ -29,8 +29,8 @@ Top 5 Core Skills
 Skills
 ======
 
-- C, Assembly x86_64 (FFI mainly).
 - Ruby, Pascal, TypeScript, Scala-Native.
+- C, Assembly x86_64 (FFI mainly).
 - High performance binary modules for interpreted programming languages.
 - Porting interpreted/JIT/VM languages to native crossplatform binaries.
 - Software performance tunning. Resource usage tunning for servers.
