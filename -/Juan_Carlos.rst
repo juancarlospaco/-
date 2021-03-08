@@ -19,36 +19,37 @@ Juan Carlos Ojeda
 Top 5 Core Skills
 =================
 
-- `Python 3.10+ <https://python.org>`_ / `Cython <https://cython.org>`_
+- `Python 3.10+ <https://python.org>`_, `Cython <https://cython.org>`_
 - `Nim <https://nim-lang.org>`_ (Backend, Frontend, Scripting).
-- `Postgres SQL <https://postgresql.org>`_ / `SQLite <https://sqlite.org>`_ (Raw SQL).
-- JavaScript / `NodeJS <https://nodejs.org>`_
+- Postgres SQL, SQLite (Raw SQL queries).
+- JavaScript, NodeJS, CoffeeScript, Flow.
 - Linux (Arch, Alpine, Debian, Ubuntu).
 
 
 Skills
 ======
 
+- C, Assembly x86_64 (FFI mainly).
+- Ruby, Pascal, TypeScript, Scala-Native.
 - High performance binary modules for interpreted programming languages.
 - Porting interpreted/JIT/VM languages to native crossplatform binaries.
 - Software performance tunning. Resource usage tunning for servers.
 - Technical documentation writing, translation and blogging.
 - WebAssembly, porting server-side software to the browser.
 - Refactoring run-time software logic to compile-time.
-- `C <http://www.open-std.org/jtc1/sc22/wg14/>`_ / Assembly x86_64 (FFI mainly).
-- `Ruby <https://www.ruby-lang.org>`_, Pascal.
-- Bash, NimScript (Scripting, deployment)
-- `Docker <https://nodejs.org>`_ / `Vagrant <https://https://www.vagrantup.com>`_
+- Bash, NimScript (Scripting, deployment).
 - Bulma, Spectre, Bootstrap (CSS frameworks).
 - Latex, RestrucTuredText, Markdown (markups).
 - Git, GitHub, GitHub Actions, GitLab, CI, CD.
 - Creating products from scratch.
-- Design by Contract testing.
+- Design by Contract programming.
+- Functional programming.
 - Tech stack renovation.
 - Open Data compliance.
 - HTTP REST JSON API.
 - Junior mentoring.
 - Binary Hardening.
+- Docker, Vagrant.
 - Gherkin syntax.
 - Web scrapping.
 
@@ -59,7 +60,7 @@ Experience
 Senior Python Developer for `Thirstie <https://thirstie.com>`_ and `Clos19 <https://www.clos19.com>`_
 -----------------------------------------------------------------------------------------------------
 
-MicroServices using Async Python 3.8 with Static Type hints, Postgres, Peewee, Celery, Docker Linux (GitHub),
+MicroServices using Async Python 3.9 with Static Type hints, Postgres, Peewee, Celery, Docker Linux (GitHub),
 with a distributed team of 2 developers from Argentina, we designed and started the code from zero. ~2020.
 
 Senior Open Source Python Developer for `Twilio <https://www.twilio.com>`_
