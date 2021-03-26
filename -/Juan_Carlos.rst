@@ -8,12 +8,28 @@ Juan Carlos Ojeda
 - **Mobile:**              https://telegram.me/juancarlospaco
 - **Years of Experience:** 10+ Years.
 - **When can I start?:**   Immediately.
-- **Spoken Languages:**    English (Fluent), Spanish (Native).
 - **Timezone:**            `UTC -3:00. <https://www.openstreetmap.org/relation/1632167>`_
 - **Availability:**        Part-Time/Full-Time/Flex-Time/Async-Work.
 - **Location:**            Remote only.
 
 *Working on software industry for 10+ years, always looking to learn more !.*
+
+
+Languages
+=========
+
+**English**
+
+Fluent, I been working for US companies all my carreer.
+
+I finished DuoLingo English courses, the most popular learning app.
+
+- https://www.duolingo.com/profile/Juan_Carlos.nim
+
+
+**Spanish**
+
+Native.
 
 
 Top 5 Core Skills
