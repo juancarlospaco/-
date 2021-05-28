@@ -38,14 +38,15 @@ Top 5 Core Skills
 - `Python 3.10+ <https://python.org>`_, `Cython <https://cython.org>`_
 - `Nim <https://nim-lang.org>`_ (Backend, Frontend, Scripting).
 - Postgres SQL, SQLite (Raw SQL queries).
-- JavaScript, NodeJS, CoffeeScript, Flow.
+- JavaScript, NodeJS.
 - Linux (Arch, Alpine, Debian, Ubuntu).
 
 
 Skills
 ======
 
-- Ruby, Pascal, TypeScript, Scala-Native.
+- [One of the top developers from my country, according to GitHub stats.](https://commits.top/argentina.html)
+- Ruby, Crystal, Pascal, TypeScript, CoffeeScript.
 - C, Assembly x86_64 (FFI mainly).
 - High performance binary modules for interpreted programming languages.
 - Porting interpreted/JIT/VM languages to native crossplatform binaries.
