@@ -45,7 +45,7 @@ Top 5 Core Skills
 Skills
 ======
 
-- [One of the top developers from my country, according to GitHub stats.](https://commits.top/argentina.html)
+- `One of the top developers from my country, according to GitHub stats. <https://commits.top/argentina.html>`_ 
 - Ruby, Crystal, Pascal, TypeScript, CoffeeScript.
 - C, Assembly x86_64 (FFI mainly).
 - High performance binary modules for interpreted programming languages.
