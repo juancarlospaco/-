@@ -39,7 +39,7 @@ Top 5 Skills
 - `Nim <https://nim-lang.org>`_ (Backend, Frontend, Scripting).
 - Postgres SQL, SQLite (Raw SQL queries).
 - Linux (Arch, Alpine, Debian, Ubuntu, Bedrock).
-- WebAssembly, JavaScript, NodeJS.
+- WebAssembly Emscripten, JavaScript ES2021, NodeJS.
 
 
 Skills
