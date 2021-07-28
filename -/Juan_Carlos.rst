@@ -32,7 +32,7 @@ I finished DuoLingo English courses, the most popular learning app.
 **Spanish**: Native.
 
 
-Top 5 Skills
+Top 6 Skills
 ============
 
 - `Python 3.10+ <https://python.org>`_, `Cython <https://cython.org>`_
@@ -40,6 +40,7 @@ Top 5 Skills
 - Postgres SQL, SQLite (Raw SQL queries, ORM).
 - Linux for production servers (Docker, Microservices, Arch, Alpine, Debian, Ubuntu).
 - WebAssembly Emscripten, JavaScript ES2021, typed NodeJS.
+- Produce more code in less time (AST metaprogramming codegen).
 
 
 Skills
