@@ -12,7 +12,7 @@ Juan Carlos Ojeda
 - **Availability:**        Full-Time/Part-Time/Flex-Time/Async-Work.
 - **Location:**            Remote only.
 
-`CV PDF Download <https://github.com/juancarlospaco/-/blob/master/-/Juan_Carlos.pdf>`_
+`CV PDF Download <https://github.com/juancarlospaco/-/raw/master/-/Juan_Carlos.pdf>`_
 
 *Working on software industry for 10+ years, always looking to learn more !.*
 
