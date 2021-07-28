@@ -29,9 +29,7 @@ I finished DuoLingo English courses, the most popular learning app.
 - https://www.duolingo.com/profile/Juan_Carlos.nim
 - https://github.com/juancarlospaco/-/blob/master/-/duolingo-english-finished.png
 
-**Spanish**
-
-Native.
+**Spanish**: Native.
 
 
 Top 5 Skills
