@@ -9,7 +9,7 @@ Juan Carlos Ojeda
 - **Years of Experience:** 10+ Years.
 - **When can I start?:**   Immediately.
 - **Timezone:**            `UTC -3:00. <https://www.openstreetmap.org/relation/1632167>`_
-- **Availability:**        Part-Time/Full-Time/Flex-Time/Async-Work.
+- **Availability:**        Full-Time/Part-Time/Flex-Time/Async-Work.
 - **Location:**            Remote only.
 
 *Working on software industry for 10+ years, always looking to learn more !.*
@@ -36,16 +36,16 @@ Top 5 Core Skills
 =================
 
 - `Python 3.10+ <https://python.org>`_, `Cython <https://cython.org>`_
-- `Nim <https://nim-lang.org>`_ (Backend, Frontend, Scripting).
+- `Nim <https://nim-lang.org>`_ (Backend, Frontend, Scripting, Optimization).
 - Postgres SQL, SQLite (Raw SQL queries).
-- Linux (Arch, Alpine, Debian, Ubuntu).
-- JavaScript, NodeJS.
+- Linux (Arch, Alpine, Debian, Ubuntu, Bedrock).
+- JavaScript, NodeJS, WebAssembly.
 
 
 Skills
 ======
 
-- `One of the top developers from my country, according to GitHub stats. <https://commits.top/argentina.html>`_ 
+- `One of the top developers from my country, according to GitHub stats. <https://commits.top/argentina.html>`_
 - Ruby, Crystal, Pascal, TypeScript, CoffeeScript.
 - C, Assembly x86_64 (FFI mainly).
 - High performance binary modules for interpreted programming languages.
