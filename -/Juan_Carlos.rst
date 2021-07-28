@@ -32,14 +32,14 @@ I finished DuoLingo English courses, the most popular learning app.
 Native.
 
 
-Top 5 Core Skills
-=================
+Top 5 Skills
+============
 
 - `Python 3.10+ <https://python.org>`_, `Cython <https://cython.org>`_
-- `Nim <https://nim-lang.org>`_ (Backend, Frontend, Scripting, Optimization).
+- `Nim <https://nim-lang.org>`_ (Backend, Frontend, Scripting).
 - Postgres SQL, SQLite (Raw SQL queries).
 - Linux (Arch, Alpine, Debian, Ubuntu, Bedrock).
-- JavaScript, NodeJS, WebAssembly.
+- WebAssembly, JavaScript, NodeJS.
 
 
 Skills
