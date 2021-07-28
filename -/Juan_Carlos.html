@@ -34,7 +34,6 @@ function main() {
     }
   }
 
-  const toggleSwitch = document.querySelector('.theme-switch input[type="checkbox"]');
   function switchTheme(e) {
       if (e.target.checked) {
           document.documentElement.setAttribute('data-theme', 'dark');
@@ -45,13 +44,19 @@ function main() {
       }
   }
 
-  toggleSwitch.addEventListener('change', switchTheme, false);
+  const toggleSwitch = document.querySelector('.theme-switch input[type="checkbox"]');
+  if (toggleSwitch !== null) {
+    toggleSwitch.addEventListener('change', switchTheme, false);
+  }
 
-  const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
+  var currentTheme = localStorage.getItem('theme');
+  if (!currentTheme && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    currentTheme = 'dark';
+  }
   if (currentTheme) {
     document.documentElement.setAttribute('data-theme', currentTheme);
 
-    if (currentTheme === 'dark') {
+    if (currentTheme === 'dark' && toggleSwitch !== null) {
       toggleSwitch.checked = true;
     }
   }
@@ -73,46 +78,57 @@ window.addEventListener('DOMContentLoaded', main);
 <li><strong>Mobile:</strong>              <a class="reference external" href="https://telegram.me/juancarlospaco">https://telegram.me/juancarlospaco</a></li>
 <li><strong>Years of Experience:</strong> 10+ Years.</li>
 <li><strong>When can I start?:</strong>   Immediately.</li>
-<li><strong>Spoken Languages:</strong>    English (Fluent), Spanish (Native).</li>
 <li><strong>Timezone:</strong>            <a class="reference external" href="https://www.openstreetmap.org/relation/1632167">UTC -3:00.</a></li>
-<li><strong>Availability:</strong>        Part-Time/Full-Time/Flex-Time/Async-Work.</li>
+<li><strong>Availability:</strong>        Full-Time/Part-Time/Flex-Time/Async-Work.</li>
 <li><strong>Location:</strong>            Remote only.</li>
 </ul>
+<p><a class="reference external" href="https://github.com/juancarlospaco/-/blob/master/-/Juan_Carlos.pdf">CV PDF Download</a></p>
 <p><em>Working on software industry for 10+ years, always looking to learn more !.</em></p>
 
-<h1 id="top-5-core-skills">Top 5 Core Skills</h1><ul class="simple"><li><a class="reference external" href="https://python.org">Python 3.10+</a> / <a class="reference external" href="https://cython.org">Cython</a></li>
+<h1 id="languages">Languages</h1><p><strong>English</strong></p>
+<p>Fluent, I been working for US companies all my carreer.</p>
+<p>I finished DuoLingo English courses, the most popular learning app.</p>
+<ul class="simple"><li><a class="reference external" href="https://www.duolingo.com/profile/Juan_Carlos.nim">https://www.duolingo.com/profile/Juan_Carlos.nim</a></li>
+<li><a class="reference external" href="https://github.com/juancarlospaco/-/blob/master/-/duolingo-english-finished.png">https://github.com/juancarlospaco/-/blob/master/-/duolingo-english-finished.png</a></li>
+</ul>
+<p><strong>Spanish</strong>: Native.</p>
+
+<h1 id="top-6-skills">Top 6 Skills</h1><ul class="simple"><li><a class="reference external" href="https://python.org">Python 3.10+</a>, <a class="reference external" href="https://cython.org">Cython</a></li>
 <li><a class="reference external" href="https://nim-lang.org">Nim</a> (Backend, Frontend, Scripting).</li>
-<li><a class="reference external" href="https://postgresql.org">Postgres SQL</a> / <a class="reference external" href="https://sqlite.org">SQLite</a> (Raw SQL).</li>
-<li>JavaScript / <a class="reference external" href="https://nodejs.org">NodeJS</a></li>
-<li>Linux (Arch, Alpine, Debian, Ubuntu).</li>
+<li>Postgres SQL, SQLite (Raw SQL queries, ORM).</li>
+<li>Linux for production servers (Docker, Microservices, Arch, Alpine, Debian, Ubuntu).</li>
+<li>WebAssembly Emscripten, JavaScript ES2021, typed NodeJS.</li>
+<li>Produce more code in less time (AST metaprogramming codegen).</li>
 </ul>
 
-<h1 id="skills">Skills</h1><ul class="simple"><li>High performance binary modules for interpreted programming languages.</li>
+<h1 id="skills">Skills</h1><ul class="simple"><li><a class="reference external" href="https://commits.top/argentina.html">One of the top developers from my country, according to GitHub stats.</a></li>
+<li>Ruby, Crystal, Pascal, TypeScript, CoffeeScript.</li>
+<li>C, Assembly x86_64 (FFI mainly).</li>
+<li>High performance binary modules for interpreted programming languages.</li>
 <li>Porting interpreted/JIT/VM languages to native crossplatform binaries.</li>
 <li>Software performance tunning. Resource usage tunning for servers.</li>
 <li>Technical documentation writing, translation and blogging.</li>
 <li>WebAssembly, porting server-side software to the browser.</li>
 <li>Refactoring run-time software logic to compile-time.</li>
-<li><a class="reference external" href="http://www.open-std.org/jtc1/sc22/wg14/">C</a> / Assembly x86_64 (FFI mainly).</li>
-<li><a class="reference external" href="https://www.ruby-lang.org">Ruby</a>, Pascal.</li>
-<li>Bash, NimScript (Scripting, deployment)</li>
-<li><a class="reference external" href="https://nodejs.org">Docker</a> / <a class="reference external" href="https://https://www.vagrantup.com">Vagrant</a></li>
+<li>Bash, NimScript (Scripting, deployment).</li>
 <li>Bulma, Spectre, Bootstrap (CSS frameworks).</li>
 <li>Latex, RestrucTuredText, Markdown (markups).</li>
 <li>Git, GitHub, GitHub Actions, GitLab, CI, CD.</li>
 <li>Creating products from scratch.</li>
-<li>Design by Contract testing.</li>
+<li>Design by Contract programming.</li>
+<li>Functional programming.</li>
 <li>Tech stack renovation.</li>
 <li>Open Data compliance.</li>
 <li>HTTP REST JSON API.</li>
 <li>Junior mentoring.</li>
 <li>Binary Hardening.</li>
+<li>Docker, Vagrant.</li>
 <li>Gherkin syntax.</li>
 <li>Web scrapping.</li>
 </ul>
 
 <h1 id="experience">Experience</h1>
-<h2 id="senior-python-developer-for-thirstiehttpscolonslashslashthirstiedotcom-and-clos19httpscolonslashslashwwwdotclos19dotcom">Senior Python Developer for <a class="reference external" href="https://thirstie.com">Thirstie</a> and <a class="reference external" href="https://www.clos19.com">Clos19</a></h2><p>MicroServices using Async Python 3.8 with Static Type hints, Postgres, Peewee, Celery, Docker Linux (GitHub), with a distributed team of 2 developers from Argentina, we designed and started the code from zero. ~2020.</p>
+<h2 id="senior-python-developer-for-thirstiehttpscolonslashslashthirstiedotcom-and-clos19httpscolonslashslashwwwdotclos19dotcom">Senior Python Developer for <a class="reference external" href="https://thirstie.com">Thirstie</a> and <a class="reference external" href="https://www.clos19.com">Clos19</a></h2><p>MicroServices using Async Python 3.9 with Static Type hints, Postgres, Peewee, Celery, Docker Linux (GitHub), with a distributed team of 2 developers from Argentina, we designed and started the code from zero. ~2020.</p>
 
 <h2 id="senior-open-source-python-developer-for-twiliohttpscolonslashslashwwwdottwiliodotcom">Senior Open Source Python Developer for <a class="reference external" href="https://www.twilio.com">Twilio</a></h2><p>I maintained all Twilio Python APIs and documentations, some NodeJS/Ruby too, on GitHub, with a distributed team of 5 developers, peer reviews of all repos, documentation, R&amp;D, tutorials, bug fix, features, technical translation, juniors mentoring, and more. (Temporal Staff Augmentation) ~2019.</p>
 
@@ -152,7 +168,7 @@ window.addEventListener('DOMContentLoaded', main);
       <div class="twelve-columns footer">
         <span class="nim-sprite"></span>
         <br/>
-        <small style="color: var(--hint);">Made with Nim. Generated: 2021-03-04 00:37:17 UTC</small>
+        <small style="color: var(--hint);">Made with Nim. Generated: 2021-07-28 07:11:48 UTC</small>
       </div>
     </div>
   </div>
