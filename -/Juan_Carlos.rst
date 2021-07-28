@@ -38,8 +38,8 @@ Top 5 Skills
 - `Python 3.10+ <https://python.org>`_, `Cython <https://cython.org>`_
 - `Nim <https://nim-lang.org>`_ (Backend, Frontend, Scripting).
 - Postgres SQL, SQLite (Raw SQL queries).
-- Linux (Arch, Alpine, Debian, Ubuntu, Bedrock).
-- WebAssembly Emscripten, JavaScript ES2021, NodeJS.
+- Linux for production servers (Arch, Alpine, Debian, Ubuntu, Bedrock).
+- WebAssembly Emscripten, JavaScript ES2021, typed NodeJS.
 
 
 Skills
