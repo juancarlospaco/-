@@ -8,9 +8,9 @@ Juan Carlos Ojeda
 - **Mobile:**              https://telegram.me/juancarlospaco
 - **Years of Experience:** 10+ Years.
 - **When can I start?:**   Immediately.
-- **Timezone:**            `UTC -3:00. <https://www.openstreetmap.org/relation/1632167>`_
-- **Availability:**        Full-Time/Part-Time/Flex-Time/Async-Work.
-- **Location:**            Remote only.
+- **Timezone:**            UTC -3:00 (flexible).
+- **Availability:**        Full-Time/Part-Time/Flex-Time/Async-Work/On-Demand.
+- **Location:**            Remote only. `Argentina, Buenos Aires. <https://www.openstreetmap.org/relation/3082668>`_
 
 `CV PDF Download <https://github.com/juancarlospaco/-/raw/master/-/Juan_Carlos.pdf>`_
 
@@ -38,42 +38,63 @@ Top 6 Skills
 - `Python 3.10+ <https://python.org>`_, `Cython <https://cython.org>`_
 - `Nim <https://nim-lang.org>`_ (Backend, Frontend, Scripting).
 - Postgres SQL, SQLite (Raw SQL queries, ORM).
-- Linux for production servers (Docker, Microservices, Arch, Alpine, Debian, Ubuntu).
-- WebAssembly Emscripten, JavaScript ES2021, typed NodeJS.
+- Linux for production servers (Docker, Microservices).
+- WebAssembly Emscripten, JavaScript, NodeJS.
 - Produce more code in less time (AST metaprogramming codegen).
 
 
 Skills
 ======
 
-- `One of the top developers from my country, according to GitHub stats. <https://commits.top/argentina.html>`_
-- Ruby, Crystal, Pascal, TypeScript, CoffeeScript.
-- C, Assembly x86_64 (FFI mainly).
+Software
+--------
+
+- Ruby, Crystal, TypeScript, CoffeeScript, Pascal, C.
+- HTTP REST JSON API, web sockets, web scraping.
+- Software performance tunning for reducing server costs.
 - High performance binary modules for interpreted programming languages.
 - Porting interpreted/JIT/VM languages to native crossplatform binaries.
-- Software performance tunning. Resource usage tunning for servers.
-- Technical documentation writing, translation and blogging.
 - WebAssembly, porting server-side software to the browser.
 - Refactoring run-time software logic to compile-time.
-- Bash, NimScript (Scripting, deployment).
-- Bulma, Spectre, Bootstrap (CSS frameworks).
-- Latex, RestrucTuredText, Markdown (markups).
-- Git, GitHub, GitHub Actions, GitLab, CI, CD.
-- Creating products from scratch.
-- Design by Contract programming.
-- Functional programming.
-- Tech stack renovation.
-- Open Data compliance.
-- HTTP REST JSON API.
-- Junior mentoring.
-- Binary Hardening.
-- Docker, Vagrant.
-- Gherkin syntax.
-- Web scrapping.
+- Functional programming. Design by Contract programming.
+- Tech stack renovation. Junior mentoring.
+
+Design
+------
+
+- Figma, Canva, Gimp, Krita, photo editing, stock photos (`Unsplash <https://unsplash.com/@juancarlospaco>`_ ).
+- Video editing, OBS-Studio livestreaming, video demo reels, stock videos (Pexels).
+- 3D Design, 3D infographics, Blender 3D, 3D Kitbashing.
+- CSS, Bulma, Bootstrap.
+
+Crypto
+------
+
+- Web 3.0, zero-fee instant cryptocurrency micropayments.
+- Markets technical analysis, inflation protection for companies.
+
+Writing
+-------
+
+- Technical translation for software and documentation. Open Data.
+- Copywriting, blogging, social media management, video content translation.
+- Latex, RestrucTuredText, Markdown, Gherkin (markups).
+- I love to write documentation for software.
+
+Linux Admin
+-----------
+
+- Git, Bash, NimScript, SSH, Docker, Vagrant, Docker-compose, Busybox, daemons.
+- GitHub, GitHub Actions, GitLab, CI, CD, deploys, scripting, binary hardening.
 
 
 Experience
 ==========
+
+Senior Nim Developer for `CxManager <https://cxmanager.live>`_
+-------------------------------------------------------------
+
+Nim developer for a small company, refactors, translations, and fixes for the project. ~2022.
 
 Senior Python Developer for `Thirstie <https://thirstie.com>`_ and `Clos19 <https://www.clos19.com>`_
 -----------------------------------------------------------------------------------------------------
@@ -141,17 +162,23 @@ I contributed to popular open source projects like
 `Peewee <https://github.com/juancarlospaco/peewee-extra-fields>`_,
 `Nuitka <https://nuitka.net>`_, Ninja-IDE.
 
-Arch Linux user, previously Debian/Ubuntu.
 I can effectively communicate technical information to non-technical people, I like to make things simpler.
 I have been coding Python more than 10 years, on small and big companies of the US.
 As a self-taught person, for me programming is always learning new things, is an adventure of a lifetime.
 
 
-Education
----------
+Workstation
+===========
 
-- University: `U.T.N. <https://utn.edu.ar>`_ (`Argentina, Buenos Aires <https://www.openstreetmap.org/relation/1632167>`_),
+- Arch and Alpine Linux, Windows in a Virtualbox.
+- CPU Ryzen, 32 Gb RAM, 1 Tera SSD, internet 10 Mb.
+
+
+Education
+=========
+
+- University: `U.T.N. <https://utn.edu.ar>`_ (Argentina),
   Systems Engineer. Python Programming; Linux LPI; Bilingual.
 
 
-*Thank you for your time, do not hesitate to contact me for any interviews or questions, let's talk.*
+*Thank you for your time, do not hesitate to contact me for any questions, let's talk.*
