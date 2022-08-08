@@ -62,8 +62,8 @@ Software
 Design
 ------
 
-- Figma, Canva, Gimp, Krita, photo editing, stock photos (`Unsplash <https://unsplash.com/@juancarlospaco>`_ ).
-- Video editing, OBS-Studio livestreaming, video demo reels, stock videos (Pexels).
+- Figma, Canva, Gimp, Krita, photo editing, stock photos (`Unsplash <https://unsplash.com/@juancarlospaco>`_).
+- Video editing, OBS-Studio livestreaming, video demo reels, stock videos (`Pexels <https://www.pexels.com/@juan-carlos-286675825>`_).
 - 3D Design, 3D infographics, Blender 3D, 3D Kitbashing.
 - CSS, Bulma, Bootstrap.
 
@@ -170,8 +170,8 @@ As a self-taught person, for me programming is always learning new things, is an
 Workstation
 ===========
 
-- Arch and Alpine Linux, Windows in a Virtualbox.
-- Ryzen 7, 32 Gb RAM, 1 Tera SSD, internet 10 Mb.
+- Arch Linux and Alpine Linux, Windows in a Virtualbox.
+- CPU Ryzen, 32 Gb RAM, 1 Tera SSD, internet 9 Mb, `chill office <https://github.com/juancarlospaco/-/blob/master/-/homeoffice.mp4>`_.
 
 
 Education
