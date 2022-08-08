@@ -92,7 +92,7 @@ Experience
 ==========
 
 Senior Nim Developer for `CxManager <https://cxmanager.live>`_
--------------------------------------------------------------
+--------------------------------------------------------------
 
 Nim developer for a small company, refactors, translations, and fixes for the project. ~2022.
 
@@ -171,7 +171,7 @@ Workstation
 ===========
 
 - Arch and Alpine Linux, Windows in a Virtualbox.
-- CPU Ryzen, 32 Gb RAM, 1 Tera SSD, internet 10 Mb.
+- Ryzen 7, 32 Gb RAM, 1 Tera SSD, internet 10 Mb.
 
 
 Education
