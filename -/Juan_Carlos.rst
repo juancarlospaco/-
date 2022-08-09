@@ -70,8 +70,8 @@ Design
 Crypto
 ------
 
-- Web 3.0, zero-fee instant cryptocurrency micropayments.
-- Markets technical analysis, inflation protection for companies.
+- Web 3.0, NFT, zero-fee instant cryptocurrency micropayments, inflation protection for companies.
+- Markets technical analysis, cryptotrading, cryptobots, cryptomining.
 
 Writing
 -------
