@@ -71,7 +71,7 @@ Crypto
 ------
 
 - Web 3.0, NFT, zero-fee instant cryptocurrency micropayments, inflation protection for companies.
-- Markets technical analysis, cryptotrading, cryptobots, cryptomining.
+- Market technical analysis, cryptotrading, cryptobots, cryptomining.
 
 Writing
 -------
