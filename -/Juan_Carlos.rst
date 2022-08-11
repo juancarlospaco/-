@@ -36,7 +36,7 @@ Top 6 Skills
 ============
 
 - `Python 3.10+ <https://python.org>`_, `Cython <https://cython.org>`_
-- `Nim <https://nim-lang.org>`_ (Backend, Frontend, Scripting).
+- `Nim <https://nim-lang.org>`_ (Backend, Frontend, Scripting, FFI, WASM).
 - Postgres SQL, SQLite (Raw SQL queries, ORM).
 - Linux for production servers (Docker, Microservices).
 - WebAssembly Emscripten, JavaScript, NodeJS.
@@ -49,7 +49,7 @@ Skills
 Software
 --------
 
-- Ruby, Crystal, TypeScript, CoffeeScript, Pascal, C.
+- C, C++, TypeScript, CoffeeScript, Pascal, Ruby, Crystal.
 - HTTP REST JSON API, web sockets, web scraping.
 - Software performance tunning for reducing server costs.
 - High performance binary modules for interpreted programming languages.
